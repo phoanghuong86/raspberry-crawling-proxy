@@ -1,0 +1,2 @@
+Basically, my main idea is setting up system can use 3G network to crawl data which can change IP sufficently (I experimented with banning IP while crawling for a long time).
+For given demand, I decided to use Raspberry Pi 4 as a small server with 3G wifi router instead of any Cloud VPS. 
